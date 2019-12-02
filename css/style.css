@@ -3137,13 +3137,13 @@ nav.navbar.bootsnav.sticked .social-icons {
 #property-search-sev .single-query-slider .price,
 #property-search-sev .leftLabel, 
 #property-search-sev .rightLabel {
-    color: #fff;
+    color: black;
 }
 #property-search-sev .single-query .keyword-input,
 #property-search-sev .bootstrap-select .btn.dropdown-toggle.btn-default{
-    border: 1px solid #999999;
+    border: 1px solid black;
     background-color: rgba(255, 255, 255, 0.3);
-    color: #fff;
+    color: black;
 }
 #property-search-sev .nstSlider .bar,
 #property-search-sev .nstSlider .rightGrip, 
