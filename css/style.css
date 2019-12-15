@@ -4107,7 +4107,7 @@ ul.list li::before,
     font-weight: 300;
 }
 #footer .copy-right {
-    font-size: 12px;
+    font-size: 16px;
 }
 .line-bottom-theme-colored-2::after {
     bottom: -1px;
