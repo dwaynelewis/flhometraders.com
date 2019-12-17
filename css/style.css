@@ -134,7 +134,7 @@ h5 {
     color: #000;
 }
 i {
-    font-size: 20px;
+    font-size: 16px;
 }
 .bg-color-gray {
     background: #f6f6f6;
@@ -763,7 +763,7 @@ button {
 /*back to top*/
 a.back-to {
     border-radius: 5px;
-    bottom: 60px;
+    bottom: 18px;
     color: #fff;
     display: none;
     font-size: 18px;
@@ -779,13 +779,13 @@ a.back-to {
     border-radius: 5px;
     bottom: 15px;
     color: #fff;
-    font-size: 22px;
-    height: 40px;
+    font-size: 12px;
+    height: 26px;
     line-height: 36px;
     position: fixed;
-    right: 20px;
+    left: 20px;
     text-align: center;
-    width: 40px;
+    width: 146px;
     z-index: 999;
 }
 /* Skils Progress Bars*/
