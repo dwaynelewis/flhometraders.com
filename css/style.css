@@ -279,7 +279,7 @@ i {
 .line_3-3 {
     display: block;
     height: 1px;
-    background: #dbdbdb;
+    background: #ff8000;
     position: relative;
 }
 .line_1 {
@@ -2591,7 +2591,7 @@ nav.navbar.bootsnav.sticked .social-icons {
     margin-bottom: 10px;
 }
 .single-query .keyword-input {
-    border: 1px solid rgba(229, 229, 229, 1);
+    border: 1px solid black);
     height: 40px;
     border-radius: 0;
     padding-left: 10px;
@@ -5329,7 +5329,7 @@ a.close-overlay.hidden {
     margin-bottom: 10px;
 }
 .single-query textarea {
-    border: 1px solid rgba(229, 229, 229, 1);
+    border: 1px solid black;
     border-radius: 5px;
     height: 152px;
     width: 100%;
@@ -5364,7 +5364,7 @@ a.close-overlay.hidden {
     padding-bottom: 10px;
 }
 .single-query textarea {
-    border: 1px solid rgba(229, 229, 229, 1);
+    border: 1px solid darkgrey;
     border-radius: 0;
     height: 140px;
     width: 100%;
