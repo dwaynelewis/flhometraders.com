@@ -393,7 +393,7 @@ a:focus {
   background: #ed2a28;
 }
 a.back-to {
-  background: #ed2a28;
+  background: black;
 }
 .pager li > a:hover,
 .pager li > a:focus,

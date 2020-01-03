@@ -767,7 +767,7 @@ a.back-to {
     color: #fff;
     display: none;
     font-size: 18px;
-    height: 40px;
+    height: 36px;
     line-height: 45px;
     position: fixed;
     right: 20px;
@@ -777,7 +777,7 @@ a.back-to {
 }
 .short-msg a.short-topup {
     border-radius: 5px;
-    bottom: 15px;
+    bottom: 18px;
     color: #fff;
     font-size: 18px;
     height: 36px;
@@ -785,7 +785,7 @@ a.back-to {
     position: fixed;
     left: 20px;
     text-align: center;
-    width: 146px;
+    width: 75%;
     z-index: 999;
 }
 /* Skils Progress Bars*/
