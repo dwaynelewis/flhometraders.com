@@ -788,6 +788,13 @@ a.back-to {
     width: 40px;
     z-index: 999;
 }
+@media only screen and(max-width: 959px) {
+	.short-msg a.short-topup {
+		width: 30%;
+    }
+}
+
+
 /* Skils Progress Bars*/
 
 .skills .progress {
