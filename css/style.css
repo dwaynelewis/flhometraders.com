@@ -4093,12 +4093,12 @@ nav.navbar.bootsnav.sticked .social-icons {
 #footer p,
 ul.list li::before,
 .opening-hourse ul li {
-    color: #808080;
+    color: #ff7b25;
 }
 .footer a:focus,
 .footer a:hover,
 .footer a:active {
-    color: #666666;
+    color: #ff7b25;
 }
 .footer .widget .widget-title {
     margin-top: 0px;
@@ -4224,7 +4224,7 @@ ul.list li::before {
     margin-top: 0;
 }
 .text-gray {
-    color: #808080;
+    color: #ff7b25;
 }
 .btn-xs {
     font-size: 11px;
