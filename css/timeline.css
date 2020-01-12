@@ -354,8 +354,8 @@ blockquote {
 }
 @media (min-width: 480px) {
   #timeline .demo-card .head h2 {
-    font-size: 165%;
-    line-height: 1.2rem;
+    font-size: 100%; /*original : 165% */
+    line-height: 2.5rem; /*original : 1.2rem */
   }
 }
 #timeline .demo-card .head h2 span {
