@@ -768,7 +768,7 @@ a.back-to {
     border-radius: 5px;
     bottom: 18px;
     color: #fff;
-    display: none;
+    display: inline-block; /*original: none */
     font-size: 18px;
     height: 36px;
     line-height: 45px;
