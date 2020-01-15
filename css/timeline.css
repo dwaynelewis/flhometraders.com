@@ -256,7 +256,7 @@ blockquote {
     display: flex;
     flex-flow: column wrap;
     width: 1170px;
-    height: 2450px; /*1650px*/
+    height: 2100px; /*1650px*/
     margin: 0 auto;
   }
 }
