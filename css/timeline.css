@@ -417,6 +417,37 @@ blockquote {
   border-color: #46b8e9;
 }
 
+#timeline .demo-card--step6 {
+  background-color: #6B5B95;
+}
+#timeline .demo-card--step6 .head::after {
+  border-color: #6B5B95;
+}
+#timeline .demo-card--step7 {
+  background-color: #3ee9d1;
+}
+#timeline .demo-card--step7 .head::after {
+  border-color: #3ee9d1;
+}
+#timeline .demo-card--step8 {
+  background-color: #ce43eb;
+}
+#timeline .demo-card--step8 .head::after {
+  border-color: #ce43eb;
+}
+#timeline .demo-card--step9 {
+  background-color: #4d92eb;
+}
+#timeline .demo-card--step9 .head::after {
+  border-color: #4d92eb;
+}
+#timeline .demo-card--step10 {
+  background-color: #6B5B95;
+}
+#timeline .demo-card--step10 .head::after {
+  border-color: #46b8e9;
+}
+
 
 
 /*===== Vertical Timeline =====*/
