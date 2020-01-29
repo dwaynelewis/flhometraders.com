@@ -199,7 +199,7 @@ blockquote {
 }
 
 .demo-card:nth-child(2) {
-  order: 5;
+  order: 6;
 }
 
 .demo-card:nth-child(3) {
@@ -207,7 +207,7 @@ blockquote {
 }
 
 .demo-card:nth-child(4) {
-  order: 6;
+  order: 7;
 }
 
 .demo-card:nth-child(5) {
@@ -215,14 +215,22 @@ blockquote {
 }
 
 .demo-card:nth-child(6) {
-  order: 7;
+  order: 8;
 }
 .demo-card:nth-child(7) {
   order: 4;
  
 }
 .demo-card:nth-child(8) {
-  order: 8;
+  order: 9;
+
+}
+.demo-card:nth-child(9) {
+  order: 5;
+
+}
+.demo-card:nth-child(10) {
+  order: 10;
 
 }
 #timeline {
@@ -252,7 +260,7 @@ blockquote {
     display: flex;
     flex-flow: column wrap;
     width: 1170px;
-    height: 2200px; /* original 1650px*/
+    height: 2600px; /* original 1650px*/
     margin: 0 auto;
   }
 }
