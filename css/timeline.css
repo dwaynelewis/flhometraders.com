@@ -260,7 +260,7 @@ blockquote {
     display: flex;
     flex-flow: column wrap;
     width: 1170px;
-    height: 2600px; /* original 1650px*/
+    height: 2200px; /* original 1650px*/
     margin: 0 auto;
   }
 }
@@ -306,6 +306,7 @@ blockquote {
   }
   #timeline .demo-card:nth-child(odd) {
     margin-right: 45px;
+    margin-top:75px;
   }
   #timeline .demo-card:nth-child(odd) .head::after {
     border-left-width: 15px;
@@ -317,6 +318,7 @@ blockquote {
   }
   #timeline .demo-card:nth-child(even) {
     margin-left: 45px;
+    margin-top:75px;
   }
   #timeline .demo-card:nth-child(even) .head::after {
     border-right-width: 15px;
@@ -382,7 +384,7 @@ blockquote {
 }
 @media (min-width: 1000px) {
   #timeline .demo-card .body {
-    height: 315px;
+    height: 450px; /*original: 315px */
   }
 }
 #timeline .demo-card .body p {
